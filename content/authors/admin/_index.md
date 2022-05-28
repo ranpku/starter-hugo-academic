@@ -14,7 +14,7 @@ organizations:
     url: https://www.pku.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include software engineering, formal method, and artificial intelligence.
+bio: My research interests include software engineering, formal methods, and artificial intelligence.
 
 # Interests to show in About widget
 interests:
