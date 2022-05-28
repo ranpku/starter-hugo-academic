@@ -25,7 +25,7 @@ experience:
   - title: Research Intern
     company: Huawei
     company_url: ''
-    company_logo: Huawei_Standard_logo
+    company_logo: Huawei-logo
     location: Beijing
     date_start: '2022-04-27'
     date_end: ''
@@ -33,11 +33,19 @@ experience:
 
   - title: Outstanding Research Intern
     company: Alibaba Group
-    company_logo: Alibaba_group_logo
+    company_logo: Alibaba-logo
     location: Hangzhou, China
     date_start: '2020-7-30'
     date_end: '2022-3-31'
     description: Designing, developing and deploying automated visual testing system at Taobao.
+
+  - title: Research Assistant
+    company: Peking University
+    company_logo: PKU-logo
+    location: Hangzhou, China
+    date_start: '2019-3-01'
+    date_end: '2020-8-30'
+    description: Advised by Kaigui Bian
 
 design:
   columns: '2'
