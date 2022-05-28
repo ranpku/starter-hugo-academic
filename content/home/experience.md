@@ -46,9 +46,9 @@ experience:
     date_start: '2019-03-01'
     date_end: '2020-08-30'
     description: >-
-      Improving the quality of short video caching, streaming and in-feed ad distribution.
+      *Improving the quality of short video caching, streaming and in-feed ad distribution.
 
-      Advised by Prof. Kaigui Bian.
+      *Advised by Prof. Kaigui Bian.
 
 design:
   columns: '2'
