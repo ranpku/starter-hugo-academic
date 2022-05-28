@@ -5,7 +5,9 @@ title: "Revenue and User Traffic Maximization in Mobile Short-Video Advertising"
 authors: ["admin","Weiqiang Zheng","Yunqi Li","Kaigui Bian","Jie Zhang","Xiaotie Deng"]
 date: 2022-05-09
 doi: "10.5555/3535850.3535972"
-
+author_notes:
+  - 'Equal contribution'
+  - 'Equal contribution'
 # Schedule page publish date (NOT publication's date).
 publishDate: 2022-05-28T11:42:51+08:00
 
