@@ -10,7 +10,7 @@ headless: true
 weight: 50
 
 # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-title: 'Accomplish&shy;ments'
+title: 'Awards'
 subtitle:
 
 # Date format
@@ -31,7 +31,7 @@ item:
 item:
   - 
     date_start: '2021-09-01'
-    description: 'The award is for 100 junior and senior students in the universities who have excellent academic performance and outstanding performance in scientific research practices; or have a sense of social responsibility, actively participate in social activities and commonweal activities.'
+    description: ''
     organization: CCF
     title: Elite Collegiate Award
 
