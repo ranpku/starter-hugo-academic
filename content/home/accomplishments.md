@@ -52,11 +52,6 @@ item:
     organization: Peking University
     title: Outstanding Undergraduate Researcher Award
   - 
-    date_start: '2021-06-01'
-    description: ''
-    organization: Peking University
-    title: Outstanding
-  - 
     date_start: '2020-09-01'
     description: ''
     organization: Huawei Technologies Co., Ltd
