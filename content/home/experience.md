@@ -26,10 +26,10 @@ experience:
     company: Huawei
     company_url: ''
     company_logo: Huawei-logo
-    location: Beijing
+    location: Beijing, China
     date_start: '2022-04-27'
     date_end: ''
-    description: research intern on software engineering and program analysis.
+    description: Research intern on software engineering and program analysis.
 
   - title: Outstanding Research Intern
     company: Alibaba Group
@@ -42,10 +42,12 @@ experience:
   - title: Research Assistant
     company: Peking University
     company_logo: PKU-logo
-    location: Hangzhou, China
+    location: Beijing, China
     date_start: '2019-03-01'
     date_end: '2020-08-30'
-    description: Advised by Kaigui Bian
+    description: >-
+      Improving the quality of short video caching, streaming and in-feed ad distribution. 
+      Advised by Prof. Kaigui Bian
 
 design:
   columns: '2'
