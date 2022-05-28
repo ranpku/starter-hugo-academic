@@ -3,7 +3,7 @@
 
 title: "CFP: A Cross-layer Recommender System with Fine-grained Preloading for Short Video Streaming at Network Edge"
 authors: ["admin","Yuanxing Zhang","Ye Yuan","Kaigui Bian"]
-date: 2020-12-18T11:42:51+08:00
+date: 2020-12-18
 doi: "10.1109/CLOUD49709.2020.00059"
 
 # Schedule page publish date (NOT publication's date).
