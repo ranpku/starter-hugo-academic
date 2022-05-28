@@ -3,7 +3,7 @@
 
 title: "Automated Visual Testing for Mobile Apps in an Industrial Setting"
 authors: ["admin", Zongyang Li, Chenxu Liu, Wenyu Wang, Weizhi Meng, Xionglin Wu, Hui Jin, Jing Cui, Xing Tang, Tao Xie]
-date: 2020-12-18
+date: 2022-5-13
 doi: "10.1145/3510457.3513027"
 
 # Schedule page publish date (NOT publication's date).

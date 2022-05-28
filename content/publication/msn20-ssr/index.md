@@ -3,7 +3,7 @@
 
 title: "SSR: Joint Optimization of Recommendation and Adaptive Bitrate Streaming for Short-form Video Feed"
 authors: ["admin","Yuanxing Zhang","Wenhan Zhang","Kaigui Bian"]
-date: 2021-04-07
+date: 2022-12-18
 doi: "10.1109/MSN50589.2020.00074"
 
 # Schedule page publish date (NOT publication's date).

@@ -3,7 +3,7 @@
 
 title: "Automated Assertion Generation via Information Retrieval and Its Integration with Deep Learning"
 authors: [Hao Yu, Yiling Lou, Ke Sun, admin, Tao Xie, Dan Hao, Ying Li, Ge Li, Qianxiang Wang]
-date: 2020-12-18
+date: 2022-5-13
 doi: "10.1145/3510003.3510149"
 
 # Schedule page publish date (NOT publication's date).
