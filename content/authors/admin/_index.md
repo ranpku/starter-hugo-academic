@@ -69,7 +69,7 @@ highlight_name: true
 ---
 
 Dezhi Ran is a first-year PhD student at Peking University advised by Professor Tao Xie. His research interests includes software engineering, formal methods, reinforcement learning, and computer networks. 
-In particular, he is focused on developing automated software testing techniques to provide guranteed quality assurance of complex software systems.
+In particular, he is focused on developing automated software testing techniques to provide guaranteed quality assurance of complex software systems.
 
 
 
