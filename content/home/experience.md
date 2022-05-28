@@ -40,7 +40,7 @@ experience:
     description: Designing, developing and deploying automated visual testing system at Taobao.
 
   - title: Research Assistant
-    company: Peking University
+    company: Institute of computer network and information systems, Peking University
     company_logo: PKU-logo
     location: Beijing, China
     date_start: '2019-03-01'

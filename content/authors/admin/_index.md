@@ -6,11 +6,11 @@ title: Dezhi Ran
 superuser: true
 
 # Role/position/tagline
-role: PhD student
+role: Ph.D. student
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: School of Computer Science Peking University
+  - name: School of Computer Science, Peking University
     url: https://www.cs.pku.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
@@ -26,7 +26,7 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Software & Theory
+    - course: Ph.D. in Software & Theory
       institution: Peking University
       year: 2021-2026 (expected)
     - course: BSc (Summa Cum Laude) in Computer Science
@@ -68,10 +68,11 @@ email: 'dezhiran@pku.edu.cn'
 highlight_name: true
 ---
 
-Dezhi Ran is a first-year PhD student at Peking University advised by Prof. Tao Xie. 
+Dezhi Ran is a first-year Ph.D. student at Peking University, where he is fortunate to be advised by Prof. Tao Xie. 
 His research interests include software engineering, formal methods, artificial intelligence, and computer networks.
-He received his bachelor’s degree in EECS at Peking University, where he was fortunate to be advised by Prof. Kaigui Bian.
-His current research interest lies in software engineering and artificial intelligence, particulary on developing effective automated software testing techniques for complex software systems.
+He received his bachelor’s degree from Turing Class at Peking University, where he was fortunate to be advised by Prof. Kaigui Bian working on the emerging field of short video streaming and content distribution.
+His current research interest lies in software engineering and artificial intelligence, particularly in developing effective automated software testing techniques for complex software systems.
+His research work has been used and deployed by great companies such as Alibaba Group.
 
 
 
