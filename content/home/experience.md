@@ -35,16 +35,16 @@ experience:
     company: Alibaba Group
     company_logo: Alibaba-logo
     location: Hangzhou, China
-    date_start: '2020-7-30'
-    date_end: '2022-3-31'
+    date_start: '2020-07-30'
+    date_end: '2022-03-31'
     description: Designing, developing and deploying automated visual testing system at Taobao.
 
   - title: Research Assistant
     company: Peking University
     company_logo: PKU-logo
     location: Hangzhou, China
-    date_start: '2019-3-01'
-    date_end: '2020-8-30'
+    date_start: '2019-03-01'
+    date_end: '2020-08-30'
     description: Advised by Kaigui Bian
 
 design:
