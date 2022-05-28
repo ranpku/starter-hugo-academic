@@ -28,7 +28,7 @@ education:
   courses:
     - course: PhD in Software & Theory
       institution: Peking University
-      year: 2021-
+      year: 2021-2026 (expected)
     - course: BS (Hons) in Computer Science
       institution: Peking University
       year: 2017-2021
