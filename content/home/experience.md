@@ -25,7 +25,7 @@ experience:
   - title: Research Intern
     company: Huawei
     company_url: ''
-    company_logo: Huawei_Standard_logo.svg
+    company_logo: Huawei_Standard_logo
     location: Beijing
     date_start: '2022-04-27'
     date_end: ''
@@ -33,7 +33,7 @@ experience:
 
   - title: Outstanding Research Intern
     company: Alibaba Group
-    company_logo: Alibaba_group_logo.svg
+    company_logo: Alibaba_group_logo
     location: Hangzhou, China
     date_start: '2020-7-30'
     date_end: '2022-3-31'
