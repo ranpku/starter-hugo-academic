@@ -10,8 +10,8 @@ role: PhD student
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Peking University
-    url: https://www.pku.edu.cn/
+  - name: School of Computer Science Peking University
+    url: https://www.cs.pku.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include software engineering, formal methods, and artificial intelligence.
@@ -20,7 +20,7 @@ bio: My research interests include software engineering, formal methods, and art
 interests:
   - Software Engineering
   - Formal Methods
-  - Reinforcement Learning
+  - Artificial Intelligence
   - Computer Networks
 
 # Education to show in About widget
@@ -29,7 +29,7 @@ education:
     - course: PhD in Software & Theory
       institution: Peking University
       year: 2021-2026 (expected)
-    - course: BS (Hons) in Computer Science
+    - course: BSc (Summa Cum Laude) in Computer Science
       institution: Peking University
       year: 2017-2021
 
@@ -68,8 +68,10 @@ email: 'dezhiran@pku.edu.cn'
 highlight_name: true
 ---
 
-Dezhi Ran is a first-year PhD student at Peking University advised by Professor Tao Xie. His research interests includes software engineering, formal methods, reinforcement learning, and computer networks. 
-In particular, he is focused on developing automated software testing techniques to provide guaranteed quality assurance of complex software systems.
+Dezhi Ran is a first-year PhD student at Peking University advised by Prof. Tao Xie. 
+His research interests include software engineering, formal methods, artificial intelligence, and computer networks.
+He received his bachelor’s degree in EECS at Peking University, where he was fortunate to be advised by Prof. Kaigui Bian.
+His current research interest lies in software engineering and artificial intelligence, particulary on developing effective automated software testing techniques for complex software systems.
 
 
 
