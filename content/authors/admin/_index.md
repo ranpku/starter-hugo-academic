@@ -41,15 +41,15 @@ social:
   - icon: envelope
     icon_pack: fas
     link: '/#contact'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/DezhiPKUASE1
+  # - icon: twitter
+  #   icon_pack: fab
+  #   link: https://twitter.com/DezhiPKUASE1
   - icon: google-scholar # Alternatively, use `graduation-cap` icon from `fab` icon pack
     icon_pack: ai
     link: https://scholar.google.com/citations?user=vBqnPi8AAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/ranpku
+  # - icon: github
+  #   icon_pack: fab
+  #   link: https://github.com/ranpku
   # - icon: linkedin
   #   icon_pack: fab
   #   link: https://www.linkedin.com/
@@ -57,9 +57,9 @@ social:
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
 # and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: uploads/resume.pdf
+- icon: cv
+  icon_pack: ai
+  link: uploads/CV_DezhiRan.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: 'dezhiran@pku.edu.cn'
@@ -69,7 +69,7 @@ highlight_name: true
 ---
 
 Dezhi Ran is a first-year Ph.D. student at Peking University, where he is fortunate to be advised by Prof. Tao Xie. 
-His research interests include software engineering, formal methods, artificial intelligence, and computer networks.
+His research interests include software engineering,  artificial intelligence, and probabilistic methods, especially software testing and software analytics.
 He received his bachelor’s degree from Turing Class at Peking University, where he was fortunate to be advised by Prof. Kaigui Bian working on the emerging field of short video streaming and content distribution.
 
 His current research interest lies in software engineering and artificial intelligence, particularly in developing effective automated software testing techniques for complex software systems.
@@ -78,4 +78,4 @@ His research work has been used and deployed by great companies such as Alibaba 
 
 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV_DezhiRan.pdf" "newtab" >}}resumé{{< /staticref >}}.
