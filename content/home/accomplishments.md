@@ -24,6 +24,11 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
   - 
+    date_start: '2022-09-01'
+    description: ''
+    organization: Peking University
+    title: Presidental Scholarship
+  - 
     date_start: '2022-03-01'
     description: ''
     organization: Alibaba Group
