@@ -26,6 +26,11 @@ item:
   - 
     date_start: '2022-09-01'
     description: ''
+    organization: Ministry of Education, China
+    title: National Scholarship
+  - 
+    date_start: '2022-09-01'
+    description: ''
     organization: Peking University
     title: Presidental Scholarship
   - 
