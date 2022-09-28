@@ -70,9 +70,9 @@ highlight_name: true
 
 Dezhi Ran is a second-year Ph.D. student at Peking University, where he is fortunate to be advised by Prof. Tao Xie. 
 His research interests include software engineering,  artificial intelligence, and probabilistic methods, especially software testing and software analytics.
-He received his bachelor’s degree from Turing Class at Peking University, where he was fortunate to be advised by Prof. Kaigui Bian working on the emerging field of short video streaming and content distribution.
+He received his bachelor’s degree with summa cum laude from Turing Class at Peking University, where he was fortunate to be advised by Prof. Kaigui Bian working on the emerging field of short video streaming and content distribution.
 
-His current research interest lies in software engineering and artificial intelligence, particularly in developing effective automated software testing techniques for complex software systems.
+His current research interest lies in the intersection of software engineering and artificial intelligence, particularly in developing provably effective automated testing techniques for complex software systems.
 
 His research work has been used and deployed by great companies such as Alibaba Group.
 
