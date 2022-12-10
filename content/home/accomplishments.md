@@ -23,7 +23,11 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-
+  - 
+    date_start: '2022-12-01'
+    description: ''
+    organization: Peking University
+    title: Nomination for Person of the Year
   - 
     date_start: '2022-09-01'
     description: ''
@@ -35,7 +39,7 @@ item:
     organization: Ministry of Education, China
     title: National Scholarship
   - 
-    date_start: '2022-09-01'
+    date_start: '2022-06-01'
     description: ''
     organization: Peking University
     title: Presidental Scholarship
@@ -77,37 +81,37 @@ item:
     description: ''
     organization: Ministry of Education, China
     title: National Scholarship
-  - 
-    date_start: '2020-09-01'
-    description: ''
-    organization: Peking University
-    title: Merit Student
+  # - 
+  #   date_start: '2020-09-01'
+  #   description: ''
+  #   organization: Peking University
+  #   title: Merit Student
   - 
     date_start: '2019-09-01'
     description: ''
     organization: EECS, Peking University
     title: John Hopcroft Scholarship
-  - 
-    date_start: '2018-09-01'
-    description: ''
-    organization: Peking University
-    title: GuangHua Scholarship
-  - 
-    date_start: '2018-09-01'
-    description: ''
-    organization: Peking University
-    title: Merit Student
+  # - 
+  #   date_start: '2018-09-01'
+  #   description: ''
+  #   organization: Peking University
+  #   title: GuangHua Scholarship
+  # - 
+  #   date_start: '2018-09-01'
+  #   description: ''
+  #   organization: Peking University
+  #   title: Merit Student
 
-  - 
-    date_start: '2017-02-01'
-    description: ''
-    organization: Shandong Provincial Education Department
-    title: Provincial Outstanding Student
-  - 
-    date_start: '2017-02-01'
-    description: ''
-    organization: Shandong Provincial Education Department
-    title: Provincial Merit Student
+  # - 
+  #   date_start: '2017-02-01'
+  #   description: ''
+  #   organization: Shandong Provincial Education Department
+  #   title: Provincial Outstanding Student
+  # - 
+  #   date_start: '2017-02-01'
+  #   description: ''
+  #   organization: Shandong Provincial Education Department
+  #   title: Provincial Merit Student
   
 
 design:
