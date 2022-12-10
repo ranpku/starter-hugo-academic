@@ -20,7 +20,7 @@ bio: My research interests include software engineering, formal methods, and art
 interests:
   - Software Testing
   - Code Generation
-  - Reinforcment Learning
+  - Reinforcement Learning
 
 # Education to show in About widget
 education:
