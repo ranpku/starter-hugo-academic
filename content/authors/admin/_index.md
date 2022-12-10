@@ -18,10 +18,9 @@ bio: My research interests include software engineering, formal methods, and art
 
 # Interests to show in About widget
 interests:
-  - Software Engineering
-  - Formal Methods
-  - Artificial Intelligence
-  - Computer Networks
+  - Software Testing
+  - Program Synthesis
+  - Reinforcment Learning
 
 # Education to show in About widget
 education:
