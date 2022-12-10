@@ -17,7 +17,7 @@ publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
 publication: "IEEE/ACM 45th International Conference on Software Engineering"
-publication_short: In *ICSE*
+publication_short:  To appear in *ICSE*
 
 abstract: ""
 
