@@ -67,9 +67,9 @@ email: 'dezhiran@pku.edu.cn'
 highlight_name: true
 ---
 
-Dezhi Ran is a second-year Ph.D. student at Peking University, where he is fortunate to be advised by Prof. Tao Xie. 
+Dezhi Ran is a second-year Ph.D. student at Peking University, where he is advised by Prof. Tao Xie. 
 His research interests include software engineering, programming languages, and reinforcement learning, especially software testing and program synthesis with large language models.
-He received his bachelor’s degree with summa cum laude from Turing Class at Peking University, where he was fortunate to be work with Prof. Kaigui Bian on the emerging field of short video streaming and recommendation.
+He received his bachelor’s degree with summa cum laude from Turing Class at Peking University, where he worked with Prof. Kaigui Bian on the emerging field of short video streaming and recommendation.
 He also worked with Prof. Jie Zhang and Prof. Xiaotie Deng on algorithmic game theory and auction design.
 
 His current research interest lies in the intersection of software engineering and artificial intelligence, particularly in developing provably effective automated testing techniques for complex software systems and trustworthy program synthesis with pretrained language models.
