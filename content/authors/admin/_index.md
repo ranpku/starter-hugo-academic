@@ -14,7 +14,7 @@ organizations:
     url: https://www.cs.pku.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include software engineering, programming languages, and reinforcement learning.
+bio: My research interests include software engineering, programming language, and reinforcement learning.
 
 # Interests to show in About widget
 interests:
@@ -68,7 +68,7 @@ highlight_name: true
 ---
 
 Dezhi Ran is a second-year Ph.D. student at Peking University, where he is advised by Prof. Tao Xie. 
-His research interests include software engineering, programming languages, and reinforcement learning, especially software testing and program synthesis with large language models.
+His research interests include software engineering, programming language, and reinforcement learning, especially software testing and program synthesis with large language models.
 He received his bachelor’s degree with summa cum laude from Turing Class at Peking University, where he worked with Prof. Kaigui Bian on the emerging field of short video streaming and recommendation.
 He also worked with Prof. Jie Zhang and Prof. Xiaotie Deng on algorithmic game theory and auction design.
 
