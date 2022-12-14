@@ -65,7 +65,7 @@ item:
     date_start: '2021-06-01'
     description: ''
     organization: Peking University
-    title: Weiming Scholar
+    title: PKU Junior Scholar
   - 
     date_start: '2021-06-01'
     description: ''
