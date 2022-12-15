@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Revenue and User Traffic Maximization in Mobile Short-Video Advertising"
+title: "Revenue and User Traffic Maximization in Mobile Short-Video Advertising (Oral Presentation)"
 authors: ["admin","Weiqiang Zheng","Yunqi Li","Kaigui Bian","Jie Zhang","Xiaotie Deng"]
 date: 2022-05-09
 doi: "10.5555/3535850.3535972"
