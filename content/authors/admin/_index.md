@@ -11,7 +11,7 @@ role: Ph.D. student
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: School of Computer Science, Peking University
-    url: https://www.cs.pku.edu.cn/
+    url: https://cs.pku.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include software engineering, programming language, and reinforcement learning.
