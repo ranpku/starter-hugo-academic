@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "BADGE: Prioritizing UI Events with Hierarchical Multi-Armed Bandits for Automated UI Testing"
+title: "Badge: Prioritizing UI Events with Hierarchical Multi-Armed Bandits for Automated UI Testing"
 authors: [admin, Hao Wang, Wenyu Wang, Tao Xie]
 date: 2023-5-13
 doi: "10.1145/xxx"
