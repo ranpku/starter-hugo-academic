@@ -28,7 +28,7 @@ experience:
     company_logo: Huawei-logo
     location: Beijing, China
     date_start: '2022-04-27'
-    date_end: ''
+    date_end: '2023-04-27'
     description: Research intern on software engineering and program analysis.
 
   - title: Outstanding Research Intern

@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "CoderEval: A Benchmark of Pragmatic Code Generation with Generative Pre-trained Models"
-authors: [Hao Yu, Bo Shen, admin, Jiaxin Zhang, Qi Zhang, Yuchi Ma, Guangtai Liang, Ying Li, Tao Xie, Qianxiang Wang]
+authors: [Hao Yu, admin, Bo Shen, Ying Li, Tao Xie, Qianxiang Wang]
 date: 2023-5-13
 doi: "10.1145/xxx"
 
