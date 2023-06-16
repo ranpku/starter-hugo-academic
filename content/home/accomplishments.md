@@ -32,7 +32,7 @@ item:
     date_start: '2023-06-07'
     description: ''
     organization: Peking University
-    title: Presidental Scholarship
+    title: Presidential Scholarship
   - 
     date_start: '2022-12-01'
     description: ''
@@ -52,7 +52,7 @@ item:
     date_start: '2022-06-01'
     description: ''
     organization: Peking University
-    title: Presidental Scholarship
+    title: Presidential Scholarship
   - 
     date_start: '2022-03-01'
     description: ''
