@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Automated Visual Testing for Mobile Apps in an Industrial Setting"
+title: "Path Toward Elderly-Friendly Mobile Apps"
 authors: ["admin", Yingjie Fu, Yibo He, Tianyu Chen, Xing Tang, Tao Xie]
 date: 2023-7-6
 doi: ""
