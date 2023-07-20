@@ -3,7 +3,7 @@
 
 title: "Badge: Prioritizing UI Events with Hierarchical Multi-Armed Bandits for Automated UI Testing"
 authors: [admin, Hao Wang, Wenyu Wang, Tao Xie]
-date: 2023-5-13
+date: 2023-5-20
 doi: "10.1145/xxx"
 
 # Schedule page publish date (NOT publication's date).
@@ -17,7 +17,7 @@ publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
 publication: "IEEE/ACM 45th International Conference on Software Engineering"
-publication_short:  To appear in *ICSE*
+publication_short:  In *ICSE*
 
 abstract: ""
 
